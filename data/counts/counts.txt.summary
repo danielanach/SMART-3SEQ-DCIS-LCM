@@ -1,0 +1,13 @@
+Status	/scratch/dana/3seq_DCIS_reg/dedup_bam/RA-058-S6_S8.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RA1-S6-011_S9.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RA2-S5-011_S10.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RA-S6-016_S6.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RA-S6-018_S4.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RB-S6-016_S7.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RB-S6-018_S5.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RB-S6-031_S2.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RC-058-S6_S1.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RC-S6-031_S3.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RD-S6-57_S11.L008.dedup.bam	/scratch/dana/3seq_DCIS_reg/dedup_bam/RE-S6-57_S12.L008.dedup.bam
+Assigned	21840	6504	75219	92200	9235	294234	8086	3668	7131	24017	4916	221378
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	33537	14901	143487	83557	12503	507520	11039	4878	11897	107721	7779	371330
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	542	166	1924	1897	159	7144	199	89	184	590	110	6176
